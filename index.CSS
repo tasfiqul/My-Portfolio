@@ -34,7 +34,8 @@ margin: 0px 200px;
 .header{ background-color: #FFF8F3;
 background-image: url('../My-Portfolio/images/header_bg.png');
  background-repeat: none;
- background-position: bottom;
+ background-position: bottom right;
+
 }
 
 .banner{padding: 30px 30px 30px 150px;
